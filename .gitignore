@@ -1,0 +1,30 @@
+# Compiled Java class files
+*.class
+
+# Generated class files
+src/com/dffic/**/*.class
+
+# Log files
+*.log
+
+# Configuration files with credentials
+config/database.properties
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Database connector (download separately)
+lib/mysql-connector-j.jar
+
+# Build artifacts
+bin/
+out/
